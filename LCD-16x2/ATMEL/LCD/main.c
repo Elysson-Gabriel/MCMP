@@ -37,7 +37,6 @@ void inicializa(){
 	envia_comando(0x0E);
 	envia_comando(0x06);
 	envia_comando(0x01);
-	envia_comando(0x80);
 }
 
 int i;
